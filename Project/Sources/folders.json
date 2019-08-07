@@ -1,29 +1,9 @@
 ﻿{
-	"Méthodes projet par défaut": {
-		"methods": [
-			"DisplayCustomers",
-			"Compiler",
-			"TotalLine",
-			"Initialisation",
-			"DisplayProducts",
-			"TotalInvoice",
-			"DisplayInvoices"
-		]
-	},
-	"Formulaires par défaut": {
-		"forms": [
-			"[Invoices]Input",
-			"[Customers]Output",
-			"[Products]Print",
-			"[Invoices]Print",
-			"[Customers]Print",
-			"[Invoices]Output",
-			"[Products]Output",
-			"[Lines]Print",
-			"[Invoices]PrintList",
-			"[Lines]Input_Output",
-			"[Customers]Input",
-			"[Products]Input"
+	"Dossier par défaut": {
+		"groups": [
+			"Tables par défaut",
+			"Formulaires par défaut",
+			"Méthodes projet par défaut"
 		]
 	},
 	"Tables par défaut": {
@@ -34,11 +14,31 @@
 			"Products"
 		]
 	},
-	"Dossier par défaut": {
-		"groups": [
-			"Méthodes projet par défaut",
-			"Formulaires par défaut",
-			"Tables par défaut"
+	"Formulaires par défaut": {
+		"forms": [
+			"[Customers]Input",
+			"[Customers]Output",
+			"[Customers]Print",
+			"[Invoices]Input",
+			"[Invoices]Output",
+			"[Invoices]PrintList",
+			"[Invoices]Print",
+			"[Lines]Input_Output",
+			"[Lines]Print",
+			"[Products]Input",
+			"[Products]Output",
+			"[Products]Print"
+		]
+	},
+	"Méthodes projet par défaut": {
+		"methods": [
+			"DisplayProducts",
+			"DisplayInvoices",
+			"Compiler",
+			"DisplayCustomers",
+			"TotalInvoice",
+			"Initialisation",
+			"TotalLine"
 		]
 	},
 	"trash": {}

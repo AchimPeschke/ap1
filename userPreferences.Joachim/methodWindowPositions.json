@@ -84,8 +84,8 @@
 		"height": 366
 	},
 	"Sources/DatabaseMethods/onStartup.4dm": {
-		"left": 749,
-		"top": 120,
+		"left": 118,
+		"top": 156,
 		"width": 800,
 		"height": 520
 	},
@@ -168,8 +168,8 @@
 		"height": 488
 	},
 	"Sources/Methods/ap_test.4dm": {
-		"left": 80,
-		"top": 217,
+		"left": 851,
+		"top": 136,
 		"width": 1034,
 		"height": 358
 	},
@@ -178,5 +178,11 @@
 		"top": 240,
 		"width": 1034,
 		"height": 358
+	},
+	"Trash/Methods/(xxttest).4dm": {
+		"left": 206,
+		"top": 188,
+		"width": 1034,
+		"height": 623
 	}
 }

@@ -81,13 +81,13 @@
 		"stamp": "2019-07-26T13:48:27.722Z"
 	},
 	"Sources/Methods/AP_Show_Products.4dm": {
-		"startSelection": 0,
-		"endSelection": 0,
-		"firstSelectedLine": 3,
-		"lastSelectedLine": 3,
+		"startSelection": 26,
+		"endSelection": 26,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 2,
 		"folding": [],
 		"bookmarks": [],
-		"stamp": "2019-07-26T13:48:27.723Z"
+		"stamp": "2019-08-07T12:39:40.460Z"
 	},
 	"Sources/Methods/Build_Cell_Content.4dm": {
 		"startSelection": 23,
@@ -108,13 +108,13 @@
 		"stamp": "2019-08-05T09:59:39.731Z"
 	},
 	"Sources/DatabaseMethods/onStartup.4dm": {
-		"startSelection": 38,
-		"endSelection": 38,
+		"startSelection": 32,
+		"endSelection": 32,
 		"firstSelectedLine": 7,
 		"lastSelectedLine": 7,
 		"folding": [],
 		"bookmarks": [],
-		"stamp": "2019-08-06T14:54:54.854Z"
+		"stamp": "2019-08-07T14:19:10.187Z"
 	},
 	"Sources/Forms/Write_Pro/method.4dm": {
 		"startSelection": 43,
@@ -234,13 +234,13 @@
 		"stamp": "2019-07-26T13:48:28.219Z"
 	},
 	"Sources/Methods/ap_test.4dm": {
-		"startSelection": 14,
-		"endSelection": 14,
-		"firstSelectedLine": 5,
-		"lastSelectedLine": 5,
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 9,
 		"folding": [],
 		"bookmarks": [],
-		"stamp": "2019-08-07T09:38:09.965Z"
+		"stamp": "2019-08-07T14:51:52.674Z"
 	},
 	"Sources/Methods/reduce.4dm": {
 		"startSelection": 23,
@@ -250,5 +250,14 @@
 		"folding": [],
 		"bookmarks": [],
 		"stamp": "2019-08-07T11:56:53.912Z"
+	},
+	"Trash/Methods/(xxttest).4dm": {
+		"startSelection": 40,
+		"endSelection": 40,
+		"firstSelectedLine": 28,
+		"lastSelectedLine": 28,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-08-07T14:41:31.170Z"
 	}
 }

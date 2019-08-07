@@ -5,3 +5,7 @@ $dbfolder:=Get 4D folder:C485(Database folder:K5:14)
   //$folder:=Path to object($dbfolder)
   //$gitfolder:=$folder.parentFolder+"Export"
 Tools_GitDefineFolder ($dbfolder)
+  // Hello
+BEEP:C151
+TRACE:C157
+
