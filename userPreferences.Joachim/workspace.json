@@ -1,0 +1,23 @@
+﻿{
+	"editors": [
+		{
+			"type": "explorer"
+		},
+		{
+			"type": "method",
+			"id": 2147483626,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "ap_test"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483627,
+			"codeDescriptor": {
+				"type": 5,
+				"databaseMethod": 1
+			}
+		}
+	]
+}

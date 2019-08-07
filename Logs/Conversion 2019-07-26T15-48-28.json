@@ -1,0 +1,277 @@
+﻿{
+	"messages": [
+		{
+			"message": "Compatibility setting 'Save methods as Unicode' switched on.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Fields are enterable in dialog boxes' switched on.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Radio buttons grouped by name' switched off.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Prevent drop of data not coming from 4D' switched off.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Reload form for each record during PRINT SELECTION' switched off.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Use period and comma as placeholders in numeric formats' switched on.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Use new architecture for application deployments' switched on.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Use object notation to access object properties' switched on.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Use date type instead of ISO date format in objects' switched on.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Allow Nested Transactions' switched on.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Do not use new context referencing mode' switched off.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Web automatic variable assignment' switched off.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Execute QUERY BY FORMULA On Server' switched on.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Execute ORDER BY FORMULA On Server' switched on.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'QUERY BY FORMULA Uses SQL Joins' switched on.",
+			"severity": "warning"
+		},
+		{
+			"message": "Exporting picture id:851, name:Bouton 2000 Trier, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Bouton 2000 Trier.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:852, name:Bouton 2000 Afficher sélec., types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Bouton 2000 Afficher sélec.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:853, name:Bouton 2000 Tout afficher, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Bouton 2000 Tout afficher.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:854, name:Bouton 2000 Rechercher, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Bouton 2000 Rechercher.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:861, name:Bouton 2000 Supprimer enreg., types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Bouton 2000 Supprimer enreg.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:862, name:Bouton 2000 OK, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Bouton 2000 OK.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:863, name:Bouton 2000 Enreg. précédent, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Bouton 2000 Enreg. précédent.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:864, name:Bouton 2000 Enreg. suivant, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Bouton 2000 Enreg. suivant.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:865, name:Bouton 2000 Dernier enreg., types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Bouton 2000 Dernier enreg.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:867, name:Bouton 2000 Premier enreg., types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Bouton 2000 Premier enreg.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:870, name:Bouton 2000 Annuler, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Bouton 2000 Annuler.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:875, name:Bouton 2000 Page suivante, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Bouton 2000 Page suivante.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:876, name:Bouton 2000 Page précédente, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Bouton 2000 Page précédente.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:877, name:Bouton 2000 Terminer, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Bouton 2000 Terminer.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:878, name:Bouton 2000 Ajouter, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Bouton 2000 Ajouter.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:879, name:Add, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Add.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:880, name:Delette, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Delette.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:881, name:Imprimer, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Imprimer.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:882, name:Quitter la liste, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Quitter la liste.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:1000, name:Vignette Annuler, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Vignette Annuler.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:1001, name:Vignette OK, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Vignette OK.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:1002, name:Vignette Supprimer enreg., types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Vignette Supprimer enreg.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:1005, name:Vignette Rechercher, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Vignette Rechercher.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:1006, name:Vignette Enreg. précédent, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Vignette Enreg. précédent.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:1007, name:Vignette Enreg. suivant, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Vignette Enreg. suivant.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:1008, name:Vignette Premier enreg., types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Vignette Premier enreg.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:1009, name:Vignette Dernier enreg., types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Vignette Dernier enreg.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:1010, name:Vignette Page précédente, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Vignette Page précédente.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:1011, name:Vignette Page suivante, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Vignette Page suivante.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:1014, name:Vignette Terminer, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Vignette Terminer.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:1015, name:Vignette Ajouter, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Vignette Ajouter.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:1016, name:Vignette Tout afficher, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Vignette Tout afficher.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:1017, name:Vignette Trier, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Vignette Trier.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:1026, name:Vignette Afficher sélec., types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Vignette Afficher sélec.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:2052, name:OSX Annuler, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:OSX Annuler.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:2053, name:OSX Dernier enreg., types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:OSX Dernier enreg.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:2055, name:OSX Enreg. précédent, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:OSX Enreg. précédent.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:2056, name:OSX Enreg. suivant, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:OSX Enreg. suivant.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:2061, name:OSX Page précédente, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:OSX Page précédente.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:2062, name:OSX Page suivante, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:OSX Page suivante.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:2063, name:OSX Premier enreg., types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:OSX Premier enreg.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:2066, name:OSX Supprimer enreg., types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:OSX Supprimer enreg.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:2071, name:OSX OK, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:OSX OK.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:10004, name:Menu EDIT Undo, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Menu EDIT Undo.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:10005, name:Menu EDIT Cut, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Menu EDIT Cut.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:10006, name:Menu EDIT Copy, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Menu EDIT Copy.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:10007, name:Menu EDIT Paste, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Menu EDIT Paste.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:10038, name:Menu EDIT Select All, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Menu EDIT Select All.pict",
+			"severity": "info"
+		},
+		{
+			"message": "Exporting picture id:10055, name:Menu EDIT Clear, types:.pict to Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Resources:Images:library:Menu EDIT Clear.pict",
+			"severity": "info"
+		},
+		{
+			"table": 2,
+			"tableName": "Invoices",
+			"form": "Input",
+			"object": "Bouton1",
+			"message": "'Background offset' 3D button style is not supported.",
+			"severity": "error"
+		},
+		{
+			"table": 2,
+			"tableName": "Invoices",
+			"form": "Input",
+			"object": "Bouton 3D8",
+			"message": "'Background offset' 3D button style is not supported.",
+			"severity": "error"
+		}
+	],
+	"success": false
+}

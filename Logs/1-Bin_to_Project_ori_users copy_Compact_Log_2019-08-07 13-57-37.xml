@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<verifylog operation="Compact" name="1-Bin_to_Project_ori_users copy" structure="Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Project:1-Bin_to_Project_ori_users copy.4DProject" data="Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:1-Bin_to_Project.4DD" os="macOS Version 10.14.6 (Build 18G87)">
+<start_timer time="2019-08-07T13:57:37+02:00"/>
+<step title="Opening the database in maintenance mode">
+</step>
+<step title="Compact">
+	<step title="Compacting auto sequence number definitions">
+	</step>
+	<step title="Compacting data table definitions">
+	</step>
+	<step title="Loading data tables">
+		<step title="Compacting data table headers">
+		</step>
+	</step>
+	<step title="Compacting BLOBs in table Customers">
+	</step>
+	<step title="Compacting records in table Customers">
+		<step title="Checking list of deleted records in table Customers">
+		</step>
+	</step>
+	<step title="Compacting BLOBs in table Invoices">
+	</step>
+	<step title="Compacting records in table Invoices">
+		<step title="Checking list of deleted records in table Invoices">
+		</step>
+	</step>
+	<step title="Compacting BLOBs in table Lines">
+	</step>
+	<step title="Compacting records in table Lines">
+		<step title="Checking list of deleted records in table Lines">
+		</step>
+	</step>
+	<step title="Compacting BLOBs in table Products">
+	</step>
+	<step title="Compacting records in table Products">
+		<step title="Checking list of deleted records in table Products">
+		</step>
+	</step>
+	<step title="Compacting BLOBs in table Pictures">
+	</step>
+	<step title="Compacting records in table Pictures">
+		<step title="Checking list of deleted records in table Pictures">
+		</step>
+	</step>
+	<step title="Compacting index definitions">
+		<step title="Compacting index B-tree Index 0 on Customers.ID_Customer (pk_index_1)">
+			<step title="Compacting index page addresses on B-tree Index 0 on Customers.ID_Customer (pk_index_1)">
+			</step>
+			<step title="Compacting index pages on B-tree Index 0 on Customers.ID_Customer (pk_index_1)">
+			</step>
+		</step>
+		<step title="Compacting index B-tree Index 1 on Customers.Company">
+			<step title="Compacting index page addresses on B-tree Index 1 on Customers.Company">
+			</step>
+			<step title="Compacting index pages on B-tree Index 1 on Customers.Company">
+			</step>
+		</step>
+		<step title="Compacting index B-tree Index 2 on Customers.Zip">
+			<step title="Compacting index page addresses on B-tree Index 2 on Customers.Zip">
+			</step>
+			<step title="Compacting index pages on B-tree Index 2 on Customers.Zip">
+			</step>
+		</step>
+		<step title="Compacting index B-tree Index 3 on Customers.City">
+			<step title="Compacting index page addresses on B-tree Index 3 on Customers.City">
+			</step>
+			<step title="Compacting index pages on B-tree Index 3 on Customers.City">
+			</step>
+		</step>
+		<step title="Compacting index B-tree Index 4 on Invoices.ID_Invoice (pk_index_2)">
+			<step title="Compacting index page addresses on B-tree Index 4 on Invoices.ID_Invoice (pk_index_2)">
+			</step>
+			<step title="Compacting index pages on B-tree Index 4 on Invoices.ID_Invoice (pk_index_2)">
+			</step>
+		</step>
+		<step title="Compacting index B-tree Index 5 on Invoices.To_Company">
+			<step title="Compacting index page addresses on B-tree Index 5 on Invoices.To_Company">
+			</step>
+			<step title="Compacting index pages on B-tree Index 5 on Invoices.To_Company">
+			</step>
+		</step>
+		<step title="Compacting index B-tree Index 6 on Invoices.Invoice date">
+			<step title="Compacting index page addresses on B-tree Index 6 on Invoices.Invoice date">
+			</step>
+			<step title="Compacting index pages on B-tree Index 6 on Invoices.Invoice date">
+			</step>
+		</step>
+		<step title="Compacting index B-tree Index 7 on Lines.To_IDInvoice">
+			<step title="Compacting index page addresses on B-tree Index 7 on Lines.To_IDInvoice">
+			</step>
+			<step title="Compacting index pages on B-tree Index 7 on Lines.To_IDInvoice">
+			</step>
+		</step>
+		<step title="Compacting index B-tree Index 8 on Lines.ToID_Product">
+			<step title="Compacting index page addresses on B-tree Index 8 on Lines.ToID_Product">
+			</step>
+			<step title="Compacting index pages on B-tree Index 8 on Lines.ToID_Product">
+			</step>
+		</step>
+		<step title="Compacting index B-tree Index 9 on Lines.Total">
+			<step title="Compacting index page addresses on B-tree Index 9 on Lines.Total">
+			</step>
+			<step title="Compacting index pages on B-tree Index 9 on Lines.Total">
+			</step>
+		</step>
+		<step title="Compacting index B-tree Index 10 on Products.ID_Product (pk_index_4)">
+			<step title="Compacting index page addresses on B-tree Index 10 on Products.ID_Product (pk_index_4)">
+			</step>
+			<step title="Compacting index pages on B-tree Index 10 on Products.ID_Product (pk_index_4)">
+			</step>
+		</step>
+		<step title="Compacting index B-tree Index 11 on Products.Name">
+			<step title="Compacting index page addresses on B-tree Index 11 on Products.Name">
+			</step>
+			<step title="Compacting index pages on B-tree Index 11 on Products.Name">
+			</step>
+		</step>
+		<step title="Compacting index B-tree Index 12 on Lines.ID_Lines (pk_index_3)">
+			<step title="Compacting index page addresses on B-tree Index 12 on Lines.ID_Lines (pk_index_3)">
+			</step>
+			<step title="Compacting index pages on B-tree Index 12 on Lines.ID_Lines (pk_index_3)">
+			</step>
+		</step>
+		<step title="Compacting index B-tree Index 13 on Pictures.ID">
+			<step title="Compacting index page addresses on B-tree Index 13 on Pictures.ID">
+			</step>
+			<step title="Compacting index pages on B-tree Index 13 on Pictures.ID">
+			</step>
+		</step>
+	</step>
+	<step title="Move original">
+<move from="Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:1-Bin_to_Project.4DD" to="Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Replaced Files (Compacting) 2019-08-07 13-57-37:1-Bin_to_Project.4DD">
+</move>	</step>
+	<step title="Move the new file to the original location">
+<move from="Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Replaced Files (Compacting) 2019-08-07 13-57-37:_1-Bin_to_Project.4DD" to="Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:1-Bin_to_Project.4DD">
+</move>	</step>
+	<step title="Move original index">
+<move from="Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:1-Bin_to_Project.4DIndx" to="Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Replaced Files (Compacting) 2019-08-07 13-57-37:1-Bin_to_Project.4DIndx">
+</move>	</step>
+	<step title="Move the new index file to the original location">
+<move from="Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:Replaced Files (Compacting) 2019-08-07 13-57-37:_1-Bin_to_Project.4DIndx" to="Macintosh HD:Users:joachim:Desktop:1-Bin_to_Project_ori_users copy:1-Bin_to_Project.4DIndx">
+</move>	</step>
+</step>
+<stop_timer time="2019-08-07T13:57:37+02:00" success="true" user_canceled="false"/>
+</verifylog>

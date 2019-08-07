@@ -1,0 +1,109 @@
+﻿{
+	"methods": {
+		"TotalLine": {
+			"timeStamp": "2019-07-26T13:48:27.718Z",
+			"attributes": {
+				"publishedWeb": true
+			}
+		},
+		"Initialisation": {
+			"timeStamp": "2019-07-26T13:48:27.719Z"
+		},
+		"Return_address": {
+			"timeStamp": "2019-07-26T13:48:27.721Z"
+		},
+		"__HTP_HOST_Do_Action": {
+			"timeStamp": "2019-07-26T13:48:27.726Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"WAK_Get_Invoices": {
+			"timeStamp": "2019-07-26T13:48:27.720Z",
+			"attributes": {
+				"published4DMobile": {
+					"scope": "table",
+					"table": "Customers"
+				}
+			}
+		},
+		"ap_test": {
+			"timeStamp": "2019-08-07T09:38:09.965Z"
+		},
+		"Build_Cell_Content": {
+			"timeStamp": "2019-07-26T13:48:27.724Z"
+		},
+		"Compiler_Arrays": {
+			"timeStamp": "2019-08-05T11:42:41.297Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"AP_Show_Products": {
+			"timeStamp": "2019-07-26T13:48:27.723Z"
+		},
+		"TotalInvoice": {
+			"timeStamp": "2019-07-26T13:48:27.717Z",
+			"attributes": {
+				"publishedWeb": true
+			}
+		},
+		"Build_Button": {
+			"timeStamp": "2019-08-05T09:59:39.731Z"
+		},
+		"Compiler_Variables_Inter": {
+			"timeStamp": "2019-08-05T11:42:41.294Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Compiler_Variables": {
+			"timeStamp": "2019-08-05T11:42:41.296Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Compiler_Methods": {
+			"timeStamp": "2019-08-05T11:42:41.302Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"DisplayCustomers": {
+			"timeStamp": "2019-07-26T13:48:27.712Z",
+			"attributes": {
+				"publishedWeb": true
+			}
+		},
+		"ProcessImagePaths": {
+			"timeStamp": "2019-07-26T13:48:27.722Z"
+		},
+		"Start_Slides": {
+			"timeStamp": "2019-07-26T13:48:27.722Z"
+		},
+		"Compiler": {
+			"timeStamp": "2019-07-26T13:48:27.716Z",
+			"attributes": {
+				"publishedWeb": true
+			}
+		},
+		"Update_Key": {
+			"timeStamp": "2019-07-26T13:48:27.720Z"
+		},
+		"DisplayInvoices": {
+			"timeStamp": "2019-07-26T13:48:27.714Z",
+			"attributes": {
+				"publishedWeb": true
+			}
+		},
+		"DisplayProducts": {
+			"timeStamp": "2019-07-26T13:48:27.715Z",
+			"attributes": {
+				"publishedWeb": true
+			}
+		},
+		"reduce": {
+			"timeStamp": "2019-08-07T11:55:21.962Z"
+		}
+	}
+}

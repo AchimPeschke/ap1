@@ -1,0 +1,16 @@
+﻿{
+	"forms": {
+		"Input": {
+			"timeStamp": "2019-07-26T13:48:28.217Z",
+			"destination": "detailScreen"
+		},
+		"Output": {
+			"timeStamp": "2019-07-26T13:48:28.214Z",
+			"destination": "listScreen"
+		},
+		"Print": {
+			"timeStamp": "2019-07-26T13:48:28.209Z",
+			"destination": "listPrinter"
+		}
+	}
+}
