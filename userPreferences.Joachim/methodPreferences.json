@@ -234,13 +234,13 @@
 		"stamp": "2019-07-26T13:48:28.219Z"
 	},
 	"Sources/Methods/ap_test.4dm": {
-		"startSelection": 0,
-		"endSelection": 0,
+		"startSelection": 8,
+		"endSelection": 8,
 		"firstSelectedLine": 9,
 		"lastSelectedLine": 9,
 		"folding": [],
 		"bookmarks": [],
-		"stamp": "2019-08-07T14:51:52.674Z"
+		"stamp": "2019-08-07T14:52:44.747Z"
 	},
 	"Sources/Methods/reduce.4dm": {
 		"startSelection": 23,
