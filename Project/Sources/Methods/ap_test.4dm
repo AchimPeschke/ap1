@@ -7,6 +7,6 @@ $dbfolder:=Get 4D folder:C485(Database folder:K5:14)
 Tools_GitDefineFolder ($dbfolder)
   // Hello
 BEEP:C151
-TRACE:C157
+  // no more trace 
   //huhu
 

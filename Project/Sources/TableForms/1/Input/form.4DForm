@@ -489,6 +489,27 @@
 						"onLoad",
 						"onHeader"
 					]
+				},
+				"bDelete1": {
+					"type": "button",
+					"top": 470,
+					"left": 474,
+					"width": 70,
+					"height": 20,
+					"sizingY": "move",
+					"dataSource": "bDelete",
+					"tooltip": {
+						"$ref": "/SOURCES/tips.json#/Delete record"
+					},
+					"text": "Delete",
+					"textAlign": "center",
+					"fontFamily": ".SF NS Text",
+					"fontSize": 12,
+					"stroke": "#000000",
+					"method": "ObjectMethods/bDelete1.4dm",
+					"events": [
+						"onClick"
+					]
 				}
 			}
 		}

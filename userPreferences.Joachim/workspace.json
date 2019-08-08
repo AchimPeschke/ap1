@@ -1,15 +1,21 @@
 ﻿{
 	"editors": [
 		{
+			"type": "form",
+			"id": 5,
+			"table": 1,
+			"formName": "Input"
+		},
+		{
+			"type": "explorer"
+		},
+		{
 			"type": "method",
 			"id": 2147483641,
 			"codeDescriptor": {
 				"type": 1,
 				"methodName": "ap_test"
 			}
-		},
-		{
-			"type": "explorer"
 		}
 	]
 }

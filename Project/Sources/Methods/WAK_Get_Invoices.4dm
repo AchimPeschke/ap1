@@ -5,4 +5,5 @@ C_LONGINT:C283($0)
 QUERY:C277([Customers:1];[Customers:1]Company:2=$1)
 RELATE MANY:C262([Customers:1]Company:2)
 
+  // Return number of invoices
 $0:=Records in selection:C76([Invoices:2])
